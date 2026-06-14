@@ -1,0 +1,225 @@
+item_id,item_name,category,quantity_per_packet,packets_available,price
+1,Basmati Rice,Grains,1 kg,120,140
+2,Boiled Rice,Grains,1 kg,100,60
+3,Wheat Flour,Grains,5 kg,80,220
+4,Ragi Flour,Grains,1 kg,70,55
+5,Jowar Flour,Grains,1 kg,65,50
+6,Toor Dal,Pulses,1 kg,90,120
+7,Moong Dal,Pulses,1 kg,85,110
+8,Chana Dal,Pulses,1 kg,80,100
+9,Urad Dal,Pulses,1 kg,70,130
+10,Masoor Dal,Pulses,1 kg,75,95
+
+11,Sugar,Essentials,1 kg,150,45
+12,Salt,Essentials,1 kg,200,20
+13,Jaggery,Essentials,1 kg,90,50
+14,Cooking Oil,Oil,1 L,85,160
+15,Groundnut Oil,Oil,1 L,70,170
+16,Sunflower Oil,Oil,1 L,90,155
+17,Coconut Oil,Oil,500 ml,65,140
+18,Ghee,Dairy,500 ml,40,280
+19,Butter,Dairy,100 g,75,55
+20,Paneer,Dairy,200 g,60,90
+
+21,Milk,Dairy,1 L,180,50
+22,Curd,Dairy,500 g,90,30
+23,Cheese,Dairy,200 g,55,120
+24,Yogurt Drink,Dairy,200 ml,85,25
+25,Flavoured Milk,Dairy,200 ml,95,30
+
+26,Bread,Bakery,400 g,110,35
+27,Brown Bread,Bakery,400 g,85,40
+28,Buns,Bakery,6 pcs,65,30
+29,Rusk,Bakery,500 g,70,45
+30,Cake Slice,Bakery,1 pc,50,60
+
+31,Poha,Breakfast,500 g,95,45
+32,Oats,Breakfast,1 kg,80,80
+33,Cornflakes,Breakfast,500 g,70,120
+34,Upma Mix,Breakfast,500 g,65,50
+35,Idli Batter,Breakfast,1 kg,60,60
+36,Dosa Batter,Breakfast,1 kg,55,65
+37,Pongal Mix,Breakfast,500 g,50,55
+38,Instant Oats,Breakfast,400 g,60,95
+39,Peanut Butter,Breakfast,340 g,45,140
+40,Honey,Breakfast,500 g,40,180
+
+41,Good Day Biscuits,Snacks,200 g,140,20
+42,Mom's Magic Biscuits,Snacks,200 g,120,25
+43,Marie Gold Biscuits,Snacks,250 g,160,15
+44,Hide & Seek Biscuits,Snacks,200 g,110,30
+45,Milk Bikis Biscuits,Snacks,200 g,130,10
+46,Krackjack Biscuits,Snacks,200 g,125,15
+47,Bourbon Biscuits,Snacks,150 g,115,30
+48,Oreo Biscuits,Snacks,120 g,100,30
+49,Little Hearts Biscuits,Snacks,75 g,90,25
+50,50-50 Biscuits,Snacks,200 g,110,20
+
+51,Potato Chips,Snacks,90 g,150,30
+52,Banana Chips,Snacks,150 g,85,45
+53,Mixture,Snacks,250 g,100,35
+54,Namkeen Mix,Snacks,250 g,95,40
+55,Popcorn Kernels,Snacks,200 g,70,25
+56,Nachos,Snacks,150 g,65,60
+57,Corn Puffs,Snacks,80 g,75,20
+58,Roasted Peanuts,Snacks,250 g,110,40
+59,Chikki,Snacks,100 g,95,25
+60,Murukku,Snacks,200 g,80,30
+
+61,Tea Powder,Beverage,250 g,90,90
+62,Coffee Powder,Beverage,200 g,65,120
+63,Green Tea,Beverage,100 g,55,150
+64,Tea Bags,Beverage,100 pcs,45,140
+65,Instant Coffee,Beverage,100 g,60,110
+66,Soft Drink,Beverage,750 ml,85,40
+67,Fruit Juice,Beverage,1 L,75,60
+68,Buttermilk,Beverage,500 ml,95,25
+69,Energy Drink,Beverage,250 ml,70,90
+70,Cold Coffee,Beverage,200 ml,80,50
+
+71,Apple,Fruits,1 kg,50,120
+72,Banana,Fruits,12 pcs,75,50
+73,Orange,Fruits,1 kg,60,80
+74,Grapes,Fruits,500 g,55,70
+75,Pomegranate,Fruits,1 kg,40,160
+76,Mango,Fruits,1 kg,35,150
+77,Watermelon,Fruits,1 pc,25,40
+78,Papaya,Fruits,1 pc,30,45
+79,Pineapple,Fruits,1 pc,20,55
+80,Guava,Fruits,1 kg,45,60
+
+81,Potato,Vegetables,1 kg,200,28
+82,Onion,Vegetables,1 kg,180,35
+83,Tomato,Vegetables,1 kg,160,30
+84,Carrot,Vegetables,1 kg,120,40
+85,Cauliflower,Vegetables,1 pc,90,35
+86,Cabbage,Vegetables,1 pc,85,30
+87,Beans,Vegetables,500 g,75,30
+88,Brinjal,Vegetables,1 kg,70,35
+89,Ladies Finger,Vegetables,500 g,65,40
+90,Spinach,Vegetables,1 bunch,80,20
+
+91,Turmeric Powder,Spices,200 g,90,40
+92,Red Chilli Powder,Spices,200 g,80,50
+93,Coriander Powder,Spices,200 g,85,45
+94,Garam Masala,Spices,100 g,70,60
+95,Cumin Seeds,Spices,200 g,65,55
+96,Mustard Seeds,Spices,200 g,60,40
+97,Pepper Powder,Spices,100 g,55,75
+98,Fennel Seeds,Spices,200 g,50,60
+99,Cloves,Spices,50 g,45,90
+100,Cardamom,Spices,50 g,40,160
+
+101,Eggs,Protein,12 pcs,95,75
+102,Chicken,Protein,1 kg,60,220
+103,Fish,Protein,1 kg,50,240
+104,Mutton,Protein,1 kg,30,680
+105,Soya Chunks,Protein,200 g,85,55
+106,Paneer Cubes,Protein,200 g,65,95
+107,Tofu,Protein,200 g,55,85
+108,Peanut Butter Crunchy,Protein,340 g,45,150
+109,Protein Bars,Protein,60 g,75,45
+110,Roasted Chickpeas,Protein,200 g,70,50
+
+111,Detergent Powder,Household,1 kg,100,90
+112,Detergent Liquid,Household,1 L,85,120
+113,Dish Wash Liquid,Household,500 ml,80,60
+114,Floor Cleaner,Household,1 L,70,85
+115,Toilet Cleaner,Household,500 ml,75,95
+116,Hand Wash,Household,250 ml,95,55
+117,Tissue Paper,Household,6 rolls,90,80
+118,Garbage Bags,Household,30 pcs,85,70
+119,Aluminium Foil,Household,30 m,70,60
+120,Plastic Wrap,Household,30 m,65,55
+
+121,Toothpaste,Personal Care,150 g,120,55
+122,Toothbrush,Personal Care,1 pc,150,30
+123,Shampoo,Personal Care,180 ml,90,120
+124,Conditioner,Personal Care,180 ml,80,130
+125,Hair Oil,Personal Care,200 ml,85,90
+126,Face Wash,Personal Care,100 ml,75,110
+127,Body Lotion,Personal Care,200 ml,70,140
+128,Body Soap,Personal Care,125 g,140,30
+129,Hand Sanitizer,Personal Care,100 ml,95,50
+130,Shaving Cream,Personal Care,100 g,60,75
+
+131,Notebook,Stationery,200 pages,120,40
+132,Pen,Stationery,1 pc,300,10
+133,Pencil,Stationery,1 pc,280,5
+134,Eraser,Stationery,1 pc,250,5
+135,Sharpener,Stationery,1 pc,230,5
+136,Marker,Stationery,1 pc,150,25
+137,Glue Stick,Stationery,20 g,120,20
+138,Stapler,Stationery,1 pc,90,60
+139,Paper Clips,Stationery,100 pcs,110,20
+140,Calculator,Stationery,1 pc,50,180
+
+141,Instant Noodles,Ready Food,70 g,160,15
+142,Cup Noodles,Ready Food,70 g,140,50
+143,Pasta,Ready Food,500 g,95,80
+144,Pasta Sauce,Ready Food,200 g,85,90
+145,Ready Rice,Ready Food,250 g,90,60
+146,Ready Dal,Ready Food,250 g,80,70
+147,Ready Chole,Ready Food,250 g,75,85
+148,Ready Paneer Curry,Ready Food,250 g,65,95
+149,Frozen Paratha,Ready Food,5 pcs,70,120
+150,Frozen Veg Cutlets,Ready Food,6 pcs,60,110
+
+151,Ice Cream Cup,Dessert,100 ml,120,45
+152,Ice Cream Family Pack,Dessert,1 L,60,180
+153,Chocolate Bar,Dessert,40 g,150,40
+154,Chocolate Cookies,Dessert,200 g,95,60
+155,Donut,Dessert,1 pc,80,50
+156,Cake Pastry,Dessert,1 pc,70,70
+157,Brownie,Dessert,1 pc,65,80
+158,Milk Chocolate Spread,Dessert,350 g,55,160
+159,Caramel Syrup,Dessert,250 ml,50,140
+160,Chocolate Syrup,Dessert,250 ml,60,130
+
+161,Dog Food,Pet Care,1 kg,50,180
+162,Cat Food,Pet Care,1 kg,45,200
+163,Pet Shampoo,Pet Care,200 ml,40,150
+164,Pet Treats,Pet Care,100 g,55,120
+165,Pet Feeding Bowl,Pet Care,1 pc,35,90
+
+166,LED Bulb,Electronics,9 W,100,120
+167,Extension Cord,Electronics,3 m,60,250
+168,Batteries AA,Electronics,4 pcs,90,90
+169,Power Strip,Electronics,1 pc,45,320
+170,USB Cable,Electronics,1 pc,70,150
+
+171,Plastic Storage Box,Kitchen,10 L,65,220
+172,Steel Plate,Kitchen,1 pc,90,180
+173,Frying Pan,Kitchen,24 cm,40,450
+174,Pressure Cooker,Kitchen,3 L,30,1200
+175,Cooking Spoon Set,Kitchen,5 pcs,55,150
+
+176,Face Mask,Health,10 pcs,100,40
+177,Hand Gloves,Health,20 pcs,90,60
+178,Thermometer,Health,1 pc,40,180
+179,Pain Relief Spray,Health,60 ml,45,130
+180,First Aid Kit,Health,1 kit,35,220
+
+181,Soft Toy,Toys,1 pc,50,250
+182,Kids Puzzle,Toys,1 set,45,180
+183,Remote Car,Toys,1 pc,30,450
+184,Cricket Ball,Toys,1 pc,70,120
+185,Board Game,Toys,1 set,40,350
+
+186,Raincoat,Clothing,1 pc,60,420
+187,Umbrella,Clothing,1 pc,75,180
+188,Socks Pair,Clothing,1 pair,120,60
+189,Cap,Clothing,1 pc,90,120
+190,T-Shirt,Clothing,1 pc,50,350
+
+191,Mobile Cover,Accessories,1 pc,85,150
+192,Key Chain,Accessories,1 pc,150,40
+193,Wallet,Accessories,1 pc,60,280
+194,Sunglasses,Accessories,1 pc,45,320
+195,Backpack,Accessories,1 pc,35,650
+
+196,Incense Sticks,Religious,100 g,110,40
+197,Diya Lamp,Religious,1 pc,85,60
+198,Pooja Oil,Religious,500 ml,70,90
+199,Notebook Diary,Stationery,1 pc,65,120
+200,Wall Clock,Home Decor,1 pc,40,450
