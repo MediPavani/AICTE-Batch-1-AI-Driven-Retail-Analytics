@@ -1,7 +1,7 @@
-pandas==2.2.2
-numpy==1.26.4
-scikit-learn==1.4.2
-mlxtend==0.23.1
-streamlit==1.32.2
-scipy==1.12.0
-python-dateutil==2.9.0.post0
+pandas
+numpy
+scikit-learn
+mlxtend
+streamlit
+scipy
+python-dateutil
